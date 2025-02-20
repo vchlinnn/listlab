@@ -1,9 +1,9 @@
 # List Implementation lab
 
-Authors: (_TODO: fill in names here!_)
+Authors: Linh Vu and Raymond Chu
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
+*   Mentor Garikai
+*   Professor Osera
 *   ...
